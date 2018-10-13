@@ -1,0 +1,14 @@
+{
+  "name": "mysql-l2",
+  "version": "1.0.0",
+  "description": "In this class, students will learn how to use more complex SQL queries to retrieve information across tables, and interact with data including write operations.",
+  "main": "dbhw2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
+}
